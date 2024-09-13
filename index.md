@@ -18,6 +18,7 @@ This website is a showcase of my journey, projects, and skills in penetration te
 
 - [CRTO Review](./tools.html)
 - [CPTS Review](./tools.html)
+- [HTB Prolabs Review](./tools.html)
 - [davinc-projects](./projects.html)
 - [Contact Me](./contact.html)
 
@@ -34,15 +35,19 @@ I love exploring new tech solutions as a **Flutter Developer** and have a deep i
 
 - **Cybersecurity & Pentesting:**
   - Vulnerability Research & Exploit Development
-  - CTF Challenges (Hack The Box, TryHackMe)
-  - Kerberoasting, Privilege Escalation
+  - CTF Challenges (Hack The Box Prolabs)
+  - Red Teaming
+  - WebApp Pentest
+  - AppSec
 
 - **Programming Languages:**
   - Flutter/Dart
   - Python
+  - C/C++
   - JavaScript
 
 - **Development & Architecture:**
+  - Mobile/Web Development With Flutter
   - Peer-to-Peer (P2P) Network Architecture Development
   - Custom Tools & Script Automation
   - Decentralized Application Development
