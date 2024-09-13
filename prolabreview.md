@@ -7,12 +7,12 @@ title: ProLabs Review
 
 
 
-- [Home](./index.md)
+## Quick Links
+- [Home](./main.md)
 - [CRTO Review](./CRTOREVIEW.md)
 - [CPTS Review](./CPTSreview.md)
 - [davinc-projects](./davinc-projects.md)
 - [Contact Me](./contact.html)
-
 
 ## RastaLabs Overview
 
