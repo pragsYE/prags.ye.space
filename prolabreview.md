@@ -34,7 +34,6 @@ RastaLabs stands out for its ongoing updates, ensuring that the challenges remai
 
 APTLabs offers an intricate set of attack paths that reflect real-world corporate security scenarios. The lab is designed to challenge your ability to bypass **modern security defenses** and exploit commonly used technologies in **Red Team** operations.
 
-![APTLABS](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Prerequisites
 
