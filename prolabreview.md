@@ -9,6 +9,8 @@ title: ProLabs Review
 
 RastaLabs provides a realistic simulation of a corporate IT environment, primarily utilizing **Microsoft Windows** systems. The lab encompasses various elements such as **Active Directory (AD)**, **Exchange**, **SQL Server**, and **IIS**, along with **Windows 10** workstations, all spread across multiple subnets.
 
+![RastaLABS](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 ### Prerequisites
 
 To get the most out of RastaLabs, you should have a solid grasp of **red teaming** or **penetration testing**, as well as experience with **security administration** within an Active Directory setup. Proficiency in **PowerShell scripting** and AD exploitation techniques is highly recommended.
@@ -31,6 +33,8 @@ RastaLabs stands out for its ongoing updates, ensuring that the challenges remai
 ## APTLabs Overview
 
 APTLabs offers an intricate set of attack paths that reflect real-world corporate security scenarios. The lab is designed to challenge your ability to bypass **modern security defenses** and exploit commonly used technologies in **Red Team** operations.
+
+![APTLABS](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Prerequisites
 
