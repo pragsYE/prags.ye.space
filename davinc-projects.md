@@ -4,7 +4,7 @@ title: DavinC Projects
 ---
 
 ## Quick Links
-- [Home](./main.md)
+- [Home](./index.md)
 - [CRTO Review](./CRTOREVIEW.md)
 - [CPTS Review](./CPTSreview.md)
 - [Contact Me](./contact.md)
