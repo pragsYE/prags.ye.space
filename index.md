@@ -64,7 +64,6 @@ I love exploring new tech solutions as a **Flutter Developer** and have a deep i
 
 ![Van Gogh's Starry Night](https://example.com/starry-night.jpg)
 
-[Contact Me](./contact.html)
 
 ---
 
