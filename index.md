@@ -19,7 +19,7 @@ This website is a showcase of my journey, projects, and skills in penetration te
 - [CRTO Review](./CRTOREVIEW.md)
 - [CPTS Review](./CPTSreview.md)
 - [HTB Prolabs Review](./tools.html)
-- [davinc-projects](./projects.html)
+- [davinc-projects](./davinc-projects.md)
 - [Contact Me](./contact.html)
 
 ---
