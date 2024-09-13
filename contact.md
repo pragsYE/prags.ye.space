@@ -9,7 +9,7 @@ title: Contact
 - [CPTS Review](./CPTSreview.md)
 - [HTB Prolabs Review](./prolabreview.md)
 - [davinc-projects](./davinc-projects.md)
-- [Contact Me](./contact.html)
+- [Home](./index.md)
 
 # Contact Me
 
