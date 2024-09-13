@@ -68,4 +68,4 @@ I love exploring new tech solutions as a **Flutter Developer** and have a deep i
 
 ---
 
-[LinkedIn]((https://www.linkedin.com/in/pragadeesh-rk/)) | [Twitter](https://x.com/@prags_ye) | [GitHub](https://github.com/yourprofile)
+[LinkedIn]((https://www.linkedin.com/in/pragadeesh-rk/)) | [Twitter](https://x.com/@prags_ye) | [GitHub](https://github.com/pragsYE)
