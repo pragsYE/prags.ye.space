@@ -3,6 +3,14 @@ layout: default
 title: CRTO Exam Review
 ---
 
+## Quick Links
+
+- [Home](./index.md)
+- [CPTS Review](./CPTSreview.md)
+- [HTB Prolabs Review](./prolabreview.md)
+- [davinc-projects](./davinc-projects.md)
+- [Contact Me](./contact.html)
+
 # CRTO Exam Review
 
 ![CRTO Badge](/CRTOBADGE.png)
