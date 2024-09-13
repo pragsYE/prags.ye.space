@@ -3,6 +3,14 @@ layout: default
 title: Contact
 ---
 
+## Quick Links
+
+- [CRTO Review](./CRTOREVIEW.md)
+- [CPTS Review](./CPTSreview.md)
+- [HTB Prolabs Review](./prolabreview.md)
+- [davinc-projects](./davinc-projects.md)
+- [Contact Me](./contact.html)
+
 # Contact Me
 
 I’d love to connect with you! If you have any questions, want to collaborate, or just want to chat about technology, feel free to reach out.
