@@ -19,7 +19,6 @@ This website is a showcase of my journey, projects, and skills in penetration te
 
 ## Quick Links
 
-- [About Me](./about.html)
 - [Projects](./projects.html)
 - [Tools & Scripts](./tools.html)
 - [Contact Me](./contact.html)
