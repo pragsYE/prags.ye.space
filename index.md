@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 # Pentest Blogs / WriteUps by prags.ye
 I’m **Pragadeesh R K**, a passionate learner and cybersecurity enthusiast, constantly exploring new ideas in tech and security.
 
