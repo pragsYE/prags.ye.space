@@ -7,7 +7,6 @@ title: CRTO Exam Review
 
 The **Certified Red Team Operator (CRTO)** exam, part of **Zero Point Security’s** Red Team Ops course, offers an excellent hands-on experience for anyone wanting to simulate adversarial tactics in a real-world setting. This online, self-study course focuses on the core principles, tools, and techniques synonymous with **red teaming**.
 
-![CRTO Badge](/CRTOBADGE.png)
 
 ![CRTO CERT](/CRTOCERT.png)
 ## Course Overview
@@ -41,11 +40,16 @@ The **Snap Labs environment** provided a realistic adversary simulation, and the
 
 ## Final Thoughts
 
+![CRTO Badge](/CRTOBADGE.png)
+
+
 The **CRTO exam** is a highly rewarding certification that tests not only technical skills but also stealthy operations and real-world adversary emulation. The hands-on nature of the exam allowed me to solidify my skills in **red teaming**, with a focus on **OPSEC** and bypassing **security defenses**.
 
 For those looking to pursue a **red team role**, this exam is an excellent stepping stone. Completing it in **14 hours** was a satisfying personal achievement, and I highly recommend this certification to anyone seeking to refine their **offensive security** skills.
 
 Check out my [Projects](./projects.html) to learn more about my red teaming journey.
+
+
 
 ---
 
