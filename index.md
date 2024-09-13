@@ -27,11 +27,29 @@ This website is a showcase of my journey, projects, and skills in penetration te
 
 I'm **Pragadeesh**, a cybersecurity enthusiast with certifications like **CPTS** and **CRTO**. I’ve developed my skills in real-world lab environments and am currently working on **"davinC"**, a decentralized application ecosystem.
 
+Aside from my tech expertise, I’m the **author** of the book _**"Coincidental Ziel"**_, which is available on Amazon. I’m also passionate about **bodybuilding**, constantly challenging myself both mentally and physically.
+
 I love exploring new tech solutions as a **Flutter Developer** and have a deep interest in **AI** and **Machine Learning**.
 
+
+- **Cybersecurity & Pentesting:**
+  - Vulnerability Research & Exploit Development
+  - CTF Challenges (Hack The Box, TryHackMe)
+  - Kerberoasting, Privilege Escalation
+
+- **Programming Languages:**
+  - Flutter/Dart
+  - Python
+  - JavaScript
+
+- **Development & Architecture:**
+  - Peer-to-Peer (P2P) Network Architecture Development
+  - Custom Tools & Script Automation
+  - Decentralized Application Development
+
+
 ## Interests and Inspiration
-- **Anime:** One Piece, Vagabond
-- **Cinema:** Films by Gaspar Noé, Seven Samurai
+
 - **Philosophy:** Nietzsche, Dostoevsky, Krishnamurti
 - **Art:** Van Gogh, Salvador Dalí
 
