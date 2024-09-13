@@ -8,7 +8,7 @@ title: CPTS Exam Review
 The **Certified Penetration Testing Specialist (CPTS)** exam by **Hack The Box** was an exhilarating and intense 10-day journey that pushed my skills to the next level. Out of the 678 candidates who passed this exam, I managed to capture **all 14 flags** in just under 5 days, followed by compiling a detailed report in a single day.
 
 
-![CPTS_Cert](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![CPTS_Cert](/CPTSCERT.jpg)
 
 
 ## Exam Structure
