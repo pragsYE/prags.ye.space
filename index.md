@@ -10,7 +10,6 @@ This website is a showcase of my journey, projects, and skills in penetration te
 
 > “When something is important enough, you do it even if the odds are not in your favor.” — Elon Musk
 
-[Check out my latest projects](./projects.html)
 
 ---
 
