@@ -19,6 +19,7 @@ This website is a showcase of my journey, projects, and skills in penetration te
 
 ## Quick Links
 
+- [Home](./main.md)
 - [CRTO Review](./CRTOREVIEW.md)
 - [CPTS Review](./CPTSreview.md)
 - [HTB Prolabs Review](./prolabreview.md)
