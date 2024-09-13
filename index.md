@@ -32,20 +32,20 @@ Aside from my tech expertise, I’m the **author** of the book _**"Coincidental 
 I love exploring new tech solutions as a **Flutter Developer** and have a deep interest in **AI** and **Machine Learning**.
 
 
-- **Cybersecurity & Pentesting:**
+- Cybersecurity & Pentesting:
   - Vulnerability Research & Exploit Development
   - CTF Challenges (Hack The Box Prolabs)
   - Red Teaming
   - WebApp Pentest
   - AppSec
 
-- **Programming Languages:**
+- Programming Languages:
   - Flutter/Dart
   - Python
   - C/C++
   - JavaScript
 
-- **Development & Architecture:**
+- Development & Architecture:
   - Mobile/Web Development With Flutter
   - Peer-to-Peer (P2P) Network Architecture Development
   - Custom Tools & Script Automation
