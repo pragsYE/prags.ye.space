@@ -49,6 +49,10 @@ These labs helped me build confidence and understanding of advanced tactics that
 - Privilege escalation techniques across varied OS versions.
 - Dealing with simulated but realistic corporate security practices.
 
+## SysReptor
+
+One BIG recommendation that I truly stand by and encourage everyone to use during the exam is to host a personal SysReptor instance to aid in reporting.Through which i generated a report of 120 pages , which made me pass the exam.
+
 ## Final Thoughts
 
 The CPTS exam was well-structured and offered a great experience for those looking to challenge themselves in a professional, real-world pentesting scenario. Completing the exam reinforced my pentesting methodologies and gave me further insight into **real-world attack surfaces**.
