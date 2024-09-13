@@ -5,11 +5,11 @@ title: Contact
 
 ## Quick Links
 
+- [Home](./index.md)
 - [CRTO Review](./CRTOREVIEW.md)
 - [CPTS Review](./CPTSreview.md)
 - [HTB Prolabs Review](./prolabreview.md)
 - [davinc-projects](./davinc-projects.md)
-- [Home](./index.md)
 
 # Contact Me
 
