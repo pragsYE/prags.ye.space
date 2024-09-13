@@ -3,6 +3,8 @@ layout: default
 title: DavinC Projects
 ---
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 # DavinC: Revolutionizing Decentralized Communication
 
 **DavinC** is my startup initiative aimed at creating a decentralized application ecosystem. We are integrating **DavinC** with a **peer-to-peer (P2P)** network model using cutting-edge technologies like **libp2p** and **WebRTC**. This approach enables a new frontier in secure, decentralized, and privacy-focused communication. Our mission is to build tools that empower users to take control of their data, ensuring it remains private and secure without relying on centralized servers.
