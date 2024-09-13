@@ -39,11 +39,15 @@ I love exploring new tech solutions as a **Flutter Developer** and have a deep i
   - WebApp Pentest
   - AppSec
 
+
+
 - Programming Languages:
   - Flutter/Dart
   - Python
   - C/C++
   - JavaScript
+
+
 
 - Development & Architecture:
   - Mobile/Web Development With Flutter
