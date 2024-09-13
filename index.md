@@ -7,7 +7,6 @@ I’m **Pragadeesh R K**, a passionate learner and cybersecurity enthusiast, con
 
 This website is a showcase of my journey, projects, and skills in penetration testing, development, and research. Feel free to explore the projects and learn more about my work.
 
-![Profile Image](/image-300x300.png)
 
 > “When something is important enough, you do it even if the odds are not in your favor.” — Elon Musk
 
