@@ -16,7 +16,7 @@ This website is a showcase of my journey, projects, and skills in penetration te
 ## Quick Links
 
 - [CRTO Review](./tools.html)
-- [CPTS Review](./tools.html)
+- [CPTS Review](./CPTSreview.md)
 - [HTB Prolabs Review](./tools.html)
 - [davinc-projects](./projects.html)
 - [Contact Me](./contact.html)
