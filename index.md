@@ -28,5 +28,5 @@ This website is a showcase of my journey, projects, and skills in penetration te
 
 ### Footer
 
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pragadeesh-rk/)) | [Twitter](https://x.com/prags_ye) | [GitHub](https://github.com/yourprofile)
+[LinkedIn]((https://www.linkedin.com/in/pragadeesh-rk/)) | [Twitter](https://x.com/@prags_ye) | [GitHub](https://github.com/yourprofile)
 
