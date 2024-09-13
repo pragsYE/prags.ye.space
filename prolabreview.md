@@ -8,7 +8,7 @@ title: ProLabs Review
 
 
 ## Quick Links
-- [Home](./main.md)
+- [Home](./index.md)
 - [CRTO Review](./CRTOREVIEW.md)
 - [CPTS Review](./CPTSreview.md)
 - [davinc-projects](./davinc-projects.md)
