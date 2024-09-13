@@ -11,6 +11,10 @@ The **Certified Penetration Testing Specialist (CPTS)** exam by **Hack The Box**
 ![CPTS_Cert](/CPTSCERT.jpg)
 
 
+## The Penetration Tester path
+
+Most of you reading this would have heard of HTB CPTS. However, for those who have not, this is the course break-down. It requires students to fully complete the Penetration Tester Path on HTB Academy, before being able to attempt the CPTS exam.This path is a long and arduous one with 28 modules.
+
 ## Exam Structure
 
 The CPTS exam simulates a real-world environment with various machines and services mimicking a company’s infrastructure. This allowed me to utilize my skills in:
