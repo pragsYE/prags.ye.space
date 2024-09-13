@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Pentest Blogs / WriteUps by prags.ye
-I’m **Pragadeesh**, a passionate learner and cybersecurity enthusiast, constantly exploring new ideas in tech and security.
+I’m **Pragadeesh R K**, a passionate learner and cybersecurity enthusiast, constantly exploring new ideas in tech and security.
 
 This website is a showcase of my journey, projects, and skills in penetration testing, development, and research. Feel free to explore the projects and learn more about my work.
 
