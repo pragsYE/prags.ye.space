@@ -7,7 +7,7 @@ title: DavinC Projects
 - [Home](./main.md)
 - [CRTO Review](./CRTOREVIEW.md)
 - [CPTS Review](./CPTSreview.md)
-- [Contact Me](./contact.html)
+- [Contact Me](./contact.md)
 
 ![Davinc](/davinc.png)
 
