@@ -9,7 +9,7 @@ title: ProLabs Review
 
 RastaLabs provides a realistic simulation of a corporate IT environment, primarily utilizing **Microsoft Windows** systems. The lab encompasses various elements such as **Active Directory (AD)**, **Exchange**, **SQL Server**, and **IIS**, along with **Windows 10** workstations, all spread across multiple subnets.
 
-![RastaLABS](RASTALAB.png)
+![RastaLABS](RASTALABS.png)
 
 ### Prerequisites
 
