@@ -7,6 +7,7 @@ title: DavinC Projects
 - [Home](./index.md)
 - [CRTO Review](./CRTOREVIEW.md)
 - [CPTS Review](./CPTSreview.md)
+- [C2-ServerProject](./c2-ServerProject.md)
 - [ProlabsReview](./prolabreview.md)
 - [Contact Me](./contact.md)
 
