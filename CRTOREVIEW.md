@@ -7,6 +7,7 @@ title: CRTO Exam Review
 
 - [Home](./index.md)
 - [CPTS Review](./CPTSreview.md)
+- [C2-ServerProject](./c2-ServerProject.md)
 - [HTB Prolabs Review](./prolabreview.md)
 - [davinc-projects](./davinc-projects.md)
 - [Contact Me](./contact.html)
