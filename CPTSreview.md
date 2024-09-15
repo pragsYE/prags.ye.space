@@ -7,6 +7,7 @@ title: CPTS Exam Review
 
 - [Home](./index.md)
 - [CRTO Review](./CRTOREVIEW.md)
+- [C2-ServerProject](./c2-ServerProject.md)
 - [HTB Prolabs Review](./prolabreview.md)
 - [davinc-projects](./davinc-projects.md)
 - [Contact Me](./contact.html)
