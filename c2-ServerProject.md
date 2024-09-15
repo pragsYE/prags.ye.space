@@ -74,7 +74,7 @@ The C2 server consists of multiple components working together to create a seaml
 
 This Python-based C2 server offers a practical and effective solution for penetration testers looking to keep their operations anonymous. The use of a beacon to relay traffic ensures that the attacker’s identity remains hidden, and the flexibility of the payload allows it to be deployed in multiple environments. This project significantly enhanced my understanding of command-and-control infrastructure and stealthy traffic routing techniques.
 
-For more information on my other projects, visit the [Projects](./projects.html) page.
+For more information on my other projects, visit the [Projects](https://github.com/pragsYE/C2-framework) page.
 
 ---
 
